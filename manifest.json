@@ -1,6 +1,6 @@
 {
 	"name": "All_Hail_The_Company",
-	"version_number": "1.0.2",
+	"version_number": "1.0.3",
 	"website_url": "https://github.com/ChazzBurger/Lethal-Company-Modpack",
 	"description": "The company is love, the company is life",
 	"dependencies": [
@@ -43,6 +43,11 @@
 		"zJurney-ThePointOfTheMasked-1.0.0",
 		"rainbow137-MikuScrap-1.3.0",
 		"Danninx-ProwlerBracken-1.0.2",
-		"zJurney-Low_Tier_God_Lightning-1.0.0"
+		"zJurney-Low_Tier_God_Lightning-1.0.0",
+		"MrUnrealTeam-SchoolMoon-1.0.4",
+		"Metrollen-FNAF_Moon-1.1.4",
+		"redroacter-Necoarc_suits-0.2.0",
+		"TrainBrain-TrainBrains_Aldi_Suit-1.1.0",
+		"G7Exid-Sargus-1.1.3"
 	]
 }
