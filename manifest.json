@@ -1,6 +1,6 @@
 {
 	"name": "All_Hail_The_Company",
-	"version_number": "1.2.0",
+	"version_number": "1.2.1",
 	"website_url": "https://github.com/ChazzBurger/Lethal-Company-Modpack",
 	"description": "The company is love, the company is life",
 	"dependencies": [
@@ -60,6 +60,7 @@
 		"Dantor-Dantors_Mental_Hospital-1.2.2",
 		"XuXiaolan-ImmersiveScrap-1.1.2",
 		"zealsprince-Locker-1.2.2",
-		"skidz-PoolRooms-0.1.22"
+		"skidz-PoolRooms-0.1.22",
+		"CatsArmy-DefaultConfigs-1.0.0"
 	]
 }
